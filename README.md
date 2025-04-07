@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Forratino21
 - 👀 I’m interested in PHP
-- 🌱 I’m currently learning Laravel 9
-- 💞️ I’m looking to collaborate on Laravel project
+- 🌱 I’m currently learning Laravel 
+- 💞️ I’m looking to collaborate on Laravel projects
 - 📫 How to reach me ...
 
 <!---
